@@ -1,8 +1,7 @@
 # Fitness Assistant
 
 운동 정보를 검색하고, 검색된 내용을 바탕으로 답변하는 RAG API 실습 프로젝트입니다.
-[DataTalks.Club LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/07-project-example)
-ㅇㅇ의 프로젝트 예제를 바탕으로 작성했습니다.
+[DataTalks.Club LLM Zoomcamp의 프로젝트 예제](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/07-project-example)를 바탕으로 작성했습니다.
 
 ## 동작 흐름
 
